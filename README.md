@@ -63,10 +63,20 @@ Software Engineer with hands-on experience developing enterprise backend systems
 
 ---
 
-### Featured Work
+### Professional Experience
+
+**Software Developer Intern** — *Rashtriya Chemicals & Fertilizers Limited (RCF)*  
+*January 2026 – February 2026 • Mumbai, India*
+- Engineered an enterprise SAP-integrated Role-Based Access Control (RBAC) platform using **C#**, **ASP.NET**, **Oracle Database**, and the **SAP .NET Connector (NCo 3.0)**.
+- Implemented secure LDAP directory authentication interfaced with SAP BAPIs and custom Function Modules for automated user role provisioning.
+- Designed comprehensive audit logging, transaction code (T-Code) authorization modules, and real-time security synchronization.
+
+---
+
+### Featured Projects
 
 - **[Diabetic Retinopathy Detection](https://github.com/Nihar0001/dr_hybrid_project)**  
-  Medical AI classification pipeline using Python, OpenCV, and CNNs. Achieved 92% diagnostic accuracy across 10,000+ retinal fundus images with Flask-based inference.
+  Medical AI classification pipeline utilizing Python, OpenCV, and CNNs. Achieved 92% diagnostic accuracy across 10,000+ retinal fundus images with Flask-based inference.
 
 - **[Real-Time Facial Recognition Attendance](https://github.com/Nihar0001/Final_face_recognition)**  
   Contactless biometric identification system built with OpenCV and MySQL, providing real-time facial feature alignment with 98% accuracy.
@@ -76,6 +86,31 @@ Software Engineer with hands-on experience developing enterprise backend systems
 
 - **[Interactive Developer Portfolio](https://subodhmuneshwar.github.io/Portfolio-website/)**  
   High-performance personal web platform engineered with Vanilla CSS design tokens and custom HTML5 Canvas physics.
+
+---
+
+### Honors & Leadership
+
+- **Smart India Hackathon 2024 National Finalist**: Selected among top 118 teams across India by Ministry of Education & AICTE for biomimicry-driven circular grey water management.
+- **Smart India Hackathon 2023 – Top 5 in India**: Ranked in top 5 nationwide out of 258 engineering teams for automated sanitary disposal and safety solution.
+- **Elected Student Secretary (RMCET, 2024 – 2026)**: Officially represented 500+ undergraduate engineering students; coordinated college technical symposiums, hackathons, and coding competitions.
+- **Workshop Instructor – Full Stack Web Development (2024)**: Conducted a 5-day practical web development workshop for 50+ junior engineers.
+
+---
+
+### Certifications
+
+- **IBM SkillsBuild**: *Agentic AI: From Learner to Builder* (Autonomous LLM Agents, Tool-Calling & Workflow Architecture)
+- **Deloitte / Forage**: *Data Analytics Job Simulation* (Data Modeling, Dashboards & Telemetry Analysis)
+
+---
+
+### Education
+
+**Bachelor of Engineering (B.E.) in Computer Engineering**  
+*Rajendra Mane College of Engineering & Technology (RMCET), Mumbai University • 2022 – 2026*  
+- **CGPI: 9.14 / 10** — Dean's List / Consistent Academic Excellence  
+- Coursework: Data Structures & Algorithms, Distributed Computing, Database Management Systems (DBMS), Artificial Intelligence
 
 ---
 
