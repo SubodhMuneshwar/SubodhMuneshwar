@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner: Modern Software Engineering & Data Architecture -->
-<img src="./assets/developer-profile-banner.jpg" alt="Subodh Uttam Muneshwar - Software Engineer Banner" width="100%" />
+<img src="./developer-profile-banner.jpg" alt="Subodh Uttam Muneshwar - Software Engineer Banner" width="100%" />
 
 # SUBODH UTTAM MUNESHWAR
 ### SOFTWARE ENGINEER • BACKEND ARCHITECT • AI/ML DEVELOPER
