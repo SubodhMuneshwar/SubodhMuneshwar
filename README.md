@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner: Modern Software Engineering & Data Architecture -->
-<img src="https://raw.githubusercontent.com/SubodhMuneshwar/Portfolio-website/main/assets/developer-profile-banner.jpg" alt="Subodh Uttam Muneshwar - Software Engineer Banner" width="100%" />
+<img src="./assets/developer-profile-banner.jpg" alt="Subodh Uttam Muneshwar - Software Engineer Banner" width="100%" />
 
 # SUBODH UTTAM MUNESHWAR
 ### SOFTWARE ENGINEER • BACKEND ARCHITECT • AI/ML DEVELOPER
@@ -186,10 +186,10 @@ Software Engineer with a strong foundation in **Python**, **C#**, **ASP.NET Core
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SubodhMuneshwar&show_icons=true&theme=tokyonight&bg_color=0A1410&title_color=38BDF8&text_color=E2E8F0&icon_color=FBBF24&border_color=38BDF8&hide_border=false" alt="Subodh's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SubodhMuneshwar&show_icons=true&theme=tokyonight&bg_color=0A1410&title_color=38BDF8&text_color=E2E8F0&icon_color=FBBF24&border_color=38BDF8&hide_border=false" alt="Subodh's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhMuneshwar&layout=compact&theme=tokyonight&bg_color=0A1410&title_color=38BDF8&text_color=E2E8F0&border_color=38BDF8&hide_border=false" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SubodhMuneshwar&layout=compact&theme=tokyonight&bg_color=0A1410&title_color=38BDF8&text_color=E2E8F0&border_color=38BDF8&hide_border=false" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
