@@ -75,7 +75,7 @@ Software Engineer with hands-on experience developing enterprise backend systems
 
 ### Featured Projects
 
-- **[Diabetic Retinopathy Detection](https://github.com/Nihar0001/dr_hybrid_project)**  
+- **[Diabetic Retinopathy Detection]([https://github.com/Nihar0001/dr_hybrid_project](https://github.com/SubodhMuneshwar/dr_hybrid_project.git))**  
   Medical AI classification pipeline utilizing Python, OpenCV, and CNNs. Achieved 92% diagnostic accuracy across 10,000+ retinal fundus images with Flask-based inference.
 
 - **[Real-Time Facial Recognition Attendance](https://github.com/Nihar0001/Final_face_recognition)**  
